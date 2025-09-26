@@ -1,0 +1,23 @@
+{
+    "token": "5fMntfmglDKb1m&wot1HVP1!HL^FoYBLZ2bPHcBNTI4#Dyc&vy5$F6I$j2q7*3LcNWwC!M5*#$vTeuo0*E8qCPGimc@@C7p0LSmG2k#XEo8@&p1dXaRcMKsQ6x4X97Jh",
+    "webhookURL": "https://discord.com/api/webhooks/1415640281294049391/CwCMhup382K-kg2UcIt5gVRbmmqWZPDAJk_5KTAf-jMybgAGWl8wFUd3PC2drwrmTDr_",
+
+    "gatewayURL": "wss://api.mongoosee.com/solsstattracker/v1/gateway",
+
+    "maxReconnectInterval": 30000,
+
+    "overrideUsername": null,
+    "overrideAvatarURL": null,
+
+    "colors": {
+        "success": "#6ab183",
+        "error": "#d85a4b",
+        "none": "#777f8d"
+    },
+
+    "emojis": {
+        "success": "<:green_tick:1365702693326422026>",
+        "error": "<:red_tick:1365702694727188491>",
+        "none": "<:gray_tick:1365702690985738390>"
+    }
+}
