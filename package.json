@@ -1,5 +1,18 @@
-"dependencies": {
-  "discord.js": "^14.15.3",
-  "ws": "^8.16.0",
-  "dotenv": "^16.4.5"
+{
+  "name": "sols-stat-tracker",
+  "version": "1.0.0",
+  "description": "Sol's Stat Tracker Webhook Client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "license": "MIT"
 }
